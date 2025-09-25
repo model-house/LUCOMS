@@ -32,11 +32,10 @@
     "subtitle": "송파를 즐기는 새로운 바이브",
     "badge": "GRAND OPEN",
     "slideImages": [
-      "assets/images/hero/architecture04.jpg",
-      "assets/images/hero/architecture03.jpg",
-      "assets/images/hero/land.jpg"
+      "assets/images/hero/land.jpg",
+      "assets/images/hero/hero.jpg"
     ],
-    "backgroundImage": "assets/images/hero/architecture04.jpg"
+    "backgroundImage": "assets/images/hero/land.jpg"
   },
   "overview": {
     "items": [
