@@ -1,0 +1,883 @@
+{
+  "site": {
+    "title": "송파 루컴즈힐더테라스",
+    "description": "루컴즈힐더테라스의 공간 속에서 당신의 일상을 빛나게합니다",
+    "contact": {
+      "phone": "1833-9123",
+      "hours": "오전 10시 - 오후 6시",
+      "address": "서울시 송파구 백제고분로37길 2",
+      "kakao": "https://naver.com/",
+      "kakaoEnabled": false,
+      "visitDateRange": {
+        "startDate": "2025-09-01",
+        "endDate": "2025-12-31"
+      }
+    },
+    "footer": {
+      "manager": "업체명 : 유니컴퍼니 | 사업자등록번호 : 877-15-02004 | 고객센터 : 1833-9123",
+      "description": "루컴즈힐더테라스의 공간 속에서 당신의 일상을 빛나게합니다",
+      "developer": "루컴즈",
+      "constructor": "",
+      "trustee": "",
+      "additionalNote": "※ 홈페이지의 모든 이미지와 내용은 소비자의 이해를 돕기 위한 것으로 실제와 차이가 있을 수 있습니다.",
+      "disclaimers": [
+        "상기 내용은 인·허가 과정이나 실제 시공 시 현장 여건 등에 따라 일부 변경될 수 있으므로 견본주택에 방문하시어 직접 확인하시기 바랍니다.",
+        "사용된 이미지 혹은 CG는 소비자의 이해를 돕기 위한 것으로 실제와 차이가 날 수 있습니다."
+      ]
+    },
+    "domain": "https://lucoms-hill.com"
+  },
+  "hero": {
+    "title": "송파 루컴즈힐더테라스",
+    "subtitle": "송파를 즐기는 새로운 바이브",
+    "badge": "GRAND OPEN",
+    "slideImages": [
+      "assets/images/hero/architecture04.jpg",
+      "assets/images/hero/architecture03.jpg",
+      "assets/images/hero/land.jpg"
+    ],
+    "backgroundImage": "assets/images/hero/architecture04.jpg"
+  },
+  "overview": {
+    "items": [
+      {
+        "label": "대지위치",
+        "value": "서울특별시 송파구 석촌동 173-1, 173-14"
+      },
+      {
+        "label": "도시형생활주택",
+        "value": "지상8층 / 지하2층 25실"
+      },
+      {
+        "label": "오피스텔",
+        "value": "지상10층 / 지하2층 46실"
+      },
+      {
+        "label": "대지면적",
+        "value": "1,731.20m²"
+      },
+      {
+        "label": "건축면적",
+        "value": "858.71m²"
+      },
+      {
+        "label": "주차대수",
+        "value": "64대"
+      }
+    ],
+    "images": [
+      "assets/images/gaeyo/overview.jpg"
+    ]
+  },
+  "design": {
+    "title": "루컴즈 브랜드",
+    "visible": true,
+    "cards": [
+      {
+        "title": "LUCOMS",
+        "points": [
+          {
+            "label": "종합 부동산 개발 회사 ‘루컴즈’",
+            "description": "공간에 대한 이해와 전문성을 바탕으로 자산개발, 운용, 관리 등의 통합 솔루션을 제공하는 기업입니다."
+          }
+        ],
+        "image": "assets/images/sogae/1.jpg",
+        "description": ""
+      },
+      {
+        "title": "LUCOMS",
+        "image": "assets/images/sogae/2.jpg",
+        "points": [
+          {
+            "label": "신뢰와 믿음",
+            "description": "인테리어, 건축, 설계, 조경 등 전문가가 아니면 시작할 수 없습니다. 다년간의 노하우와 기술력을 두루 갖춘 루컴즈는 신뢰와 믿음으로 공간을 만들어 가고 있습니다."
+          }
+        ]
+      },
+      {
+        "title": "LUCOMS",
+        "points": [
+          {
+            "label": "환경과 미래가치",
+            "description": "고객의 라이프 스타일을 고려하여 다양한 생활 편의 시설은 물론, 교통, 교육, 병원, 여가, 쇼핑 등 생활 필요 환경들을 함께 고려하고 미래가치를 분석, 설계하여 특별한 프리미엄 공간을 만들고 있습니다."
+          }
+        ],
+        "image": "assets/images/sogae/3.jpg"
+      }
+    ]
+  },
+  "location": {
+    "title": "입지 환경",
+    "description": "도시생활의 편리함과 자연이 주는 여유로움",
+    "image": "assets/images/ipzi/location.jpg",
+    "highlights": [
+      {
+        "icon": "🚇",
+        "title": "교통",
+        "description": "지하철 8·9호선 더블 역세권"
+      },
+      {
+        "icon": "🎫",
+        "title": "문화",
+        "description": "송리단길, 롯데콘서트홀"
+      },
+      {
+        "icon": "🛍️",
+        "title": "편의",
+        "description": "롯데백화점,롯데월드몰 인접"
+      },
+      {
+        "icon": "🌳",
+        "title": "자연",
+        "description": "석촌호수, 올림픽공원 산책"
+      },
+      {
+        "icon": "🏫",
+        "title": "교육",
+        "description": "석촌초등학교 도보2분"
+      }
+    ]
+  },
+  "floorPlans": {
+    "title": "평면도",
+    "description": "세심한 감각이 깃든 트렌디한 공간",
+    "plans": [
+      {
+        "type": "35A-T",
+        "area": "35.8083㎡",
+        "units": "2세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "2BAY / 북향 / 테라스"
+        ],
+        "image": "assets/images/pungsu/35a-t.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "35.8083㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "9.0123㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "44.8206㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "73.8362㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "49A-T",
+        "area": "49.6642㎡",
+        "units": "2세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "2BAY / 북향 / 테라스"
+        ],
+        "image": "assets/images/pungsu/49a-t.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "49.6642㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "12.3449㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "62.0091㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "102.2523㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "49B-T",
+        "area": "49.4599㎡",
+        "units": "2세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "2BAY / 북향 / 테라스"
+        ],
+        "image": "assets/images/pungsu/49b-t.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "49.4599㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "22.3372㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "71.7971㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "111.8748㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "42A",
+        "area": "49.9952㎡",
+        "units": "2세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "3BAY / 남향 / 발코니"
+        ],
+        "image": "assets/images/pungsu/42a.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "49.9952㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "20.0208㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "63.0160㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "97.8552㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "49A",
+        "area": "49.0311㎡",
+        "units": "10세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "3BAY / 남향 / 발코니"
+        ],
+        "image": "assets/images/pungsu/49a.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "49.0311㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "22.6078㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "71.6389㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "111.3691㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "46A-PH",
+        "area": "46.3376㎡",
+        "units": "1세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "3BAY / 남향 / 발코니 / 복층 / 펜트"
+        ],
+        "image": "assets/images/pungsu/46a-ph.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "46.3376㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "21.0387㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "67.3763㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "104.9239㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "49A-PH",
+        "area": "49.0311㎡",
+        "units": "2세대",
+        "description": "도시형 생활주택",
+        "features": [
+          "3BAY / 남향 / 발코니 / 복층 / 펜트"
+        ],
+        "image": "assets/images/pungsu/49a-ph.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "49.0311㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "22.6078㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "71.6389㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "111.3691㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "35A",
+        "area": "35.1185㎡",
+        "units": "7실",
+        "description": "오피스텔",
+        "features": [
+          "2BAY / 남향 / 분리형"
+        ],
+        "image": "assets/images/pungsu/35a.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "35.1185㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "17.3264㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "52.4449㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "80.9016㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "35B",
+        "area": "35.0290㎡",
+        "units": "7실",
+        "description": "오피스텔",
+        "features": [
+          "2BAY / 동향 / 분리형"
+        ],
+        "image": "assets/images/pungsu/35b.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "35.0290㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "17.2962㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "52.3252㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "80.7093㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "37A",
+        "area": "37.4133㎡",
+        "units": "12실",
+        "description": "오피스텔",
+        "features": [
+          "3BAY / 북향 / 발코니"
+        ],
+        "image": "assets/images/pungsu/37a.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "37.4133㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "18.5234㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "55.9367㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "86.2529㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "45A",
+        "area": "45.7787㎡",
+        "units": "2실",
+        "description": "오피스텔",
+        "features": [
+          "3BAY / 북향 / 발코니"
+        ],
+        "image": "assets/images/pungsu/45a.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "45.7787㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "22.7365㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "68.5152㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "105.6099㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "52A",
+        "area": "52.2696㎡",
+        "units": "12실",
+        "description": "오피스텔",
+        "features": [
+          "3BAY / 북향 / 발코니"
+        ],
+        "image": "assets/images/pungsu/52a.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "52.2696㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "25.5075㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "77.7771㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "120.1314㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "40A-PH",
+        "area": "40.4411㎡",
+        "units": "2실",
+        "description": "오피스텔",
+        "features": [
+          "2BAY / 북향 / 발코니 / 복층 / 펜트"
+        ],
+        "image": "assets/images/pungsu/40a-ph.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "40.4411㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "20.4290㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "60.8701㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "93.6397㎡"
+          }
+        ],
+        "additionalImages": []
+      },
+      {
+        "type": "56A-PH",
+        "area": "56.0283㎡",
+        "units": "2실",
+        "description": "오피스텔",
+        "features": [
+          "2BAY / 북향 / 발코니 / 복층 / 펜트"
+        ],
+        "image": "assets/images/pungsu/56a-ph.JPG",
+        "areaDetails": [
+          {
+            "label": "전용면적",
+            "value": "56.0283㎡"
+          },
+          {
+            "label": "공용면적",
+            "value": "20.7089㎡"
+          },
+          {
+            "label": "공급면적",
+            "value": "82.7372㎡"
+          },
+          {
+            "label": "계약면적",
+            "value": "128.1372㎡"
+          }
+        ],
+        "additionalImages": []
+      }
+    ]
+  },
+  "premium": {
+    "title": "프리미엄",
+    "description": "Designed To Optimize Space, Light, And Artistry",
+    "additionalInfo": "",
+    "visible": true,
+    "layoutType": "cards",
+    "features": [
+      {
+        "icon": "🏢",
+        "title": "Architecture",
+        "description": "Building\n",
+        "details": [
+          " 거주의 쾌적함과 입주민의 프라이빗한 최적 동선 설계",
+          "모던하고 차별화된 미관의 건축물로 고층부는 롯데타워 석촌호수 뷰가 가능",
+          "입주민을 위한 포켓공원에 어반-시크 스타일의 조경 디자인을 적용",
+          "녹색인증 건축물로 단열성능 향상 및 기밀성 창호 사용으로 냉난방 에너지가 절약"
+        ]
+      },
+      {
+        "icon": "📐",
+        "title": "Space",
+        "description": "Interior",
+        "details": [
+          "트렌디한 인테리어 디자인에 마그네틱 조명의 포인트",
+          "펜트하우스 및 펜트리 공간 구성의 특화된 설계"
+        ]
+      },
+      {
+        "icon": "👍",
+        "title": "Amenities",
+        "description": "Built In",
+        "details": [
+          " 프리미엄 빌트인 옵션"
+        ]
+      }
+    ],
+    "images": []
+  },
+  "options": {
+    "title": "기본 제공 품목 안내",
+    "description": "루컴즈힐 더테라스의 프리미엄 기본 제공 품목",
+    "visible": false,
+    "categories": [
+      {
+        "title": "시스템",
+        "items": [
+          {
+            "title": "공동현관",
+            "description": "안면인식 시스템"
+          },
+          {
+            "title": "현관 간접조명",
+            "description": "(84B, 84C, 99B)"
+          },
+          {
+            "title": "거실 및 각 침실",
+            "description": "에어컨 냉매배관"
+          },
+          {
+            "title": "현관/복도/거실/주방",
+            "description": "스크래치리스 도배지"
+          }
+        ]
+      },
+      {
+        "title": "주방/가전",
+        "items": [
+          {
+            "title": "거실 매입등 조도 및",
+            "description": "디밍 조절"
+          },
+          {
+            "title": "엔지니어드스톤",
+            "description": "주방상판"
+          },
+          {
+            "title": "와이드",
+            "description": "사각 싱크볼"
+          },
+          {
+            "title": "전기",
+            "description": "오븐"
+          }
+        ]
+      },
+      {
+        "title": "욕실/발코니",
+        "items": [
+          {
+            "title": "다용도실 및 발코니",
+            "description": "걸레받이 도장"
+          },
+          {
+            "title": "전동 빨래",
+            "description": "건조대"
+          },
+          {
+            "title": "실외기 AL",
+            "description": "자동루버"
+          },
+          {
+            "title": "욕실 샤워",
+            "description": "안전손잡이"
+          }
+        ]
+      },
+      {
+        "title": "시스템/보안",
+        "items": [
+          {
+            "title": "주방 센서형",
+            "description": "절수 수전"
+          },
+          {
+            "title": "고급형",
+            "description": "전열교환기"
+          },
+          {
+            "title": "비데일체형",
+            "description": "욕실"
+          }
+        ]
+      }
+    ]
+  },
+  "convenience": {
+    "title": "편의시설111",
+    "description": "최첨단 스마트 라이프로 한발 앞선 내일을 경험하다",
+    "subtitle": "첨단 프리미엄 시스템과 스마트홈의 전격 스펙 표준화. 더욱 편리하고 안전하게 스마트한 일상을 누립니다.",
+    "visible": false,
+    "facilities": [
+      {
+        "category": "가족의 안전을 지켜주는 보안 시스템11",
+        "items": [
+          {
+            "name": "무인경비 시스템",
+            "description": "공용현관과 경비실이 연계되어 외부 침입 등 비상 상황 시 신속 대응 가능"
+          },
+          {
+            "name": "CCTV 설치 (400만 화소)",
+            "description": "단지 내 안전한 생활을 위해 주차장, 놀이터, 엘리베이터 등에 설치"
+          },
+          {
+            "name": "첨단 디지털 도어록",
+            "description": "위급 시 문열림 버튼을 눌러 구조 요청할 수 있는 안전 도어록 설치"
+          },
+          {
+            "name": "홈네트워크 시스템",
+            "description": "가정 내 월패드를 통해 방문자 확인 및 공동현관 자동문 제어 가능"
+          },
+          {
+            "name": "주차관제 시스템",
+            "description": "차량번호 인식 및 무인 자동 출차 시스템으로 입·출차 통제 및 주차 편의 제공"
+          },
+          {
+            "name": "비상콜 시스템",
+            "description": "세대 내 월패드에서 경비실과 바로 통화 가능하여 위급 상황 시 신속한 대응 도움"
+          },
+          {
+            "name": "각 세대 현관 앞 비상경보 시스템",
+            "description": "세대 현관에 설치된 비상벨 누르면 경비실에 경보 발생 및 긴급상황 전달"
+          },
+          {
+            "name": "주차위치 인식 시스템",
+            "description": "지하주차장에 설치된 주차위치 인식 시스템을 통해 내 차량 위치 손쉽게 확인"
+          },
+          {
+            "name": "CCTV 통합관제 시스템",
+            "description": "CCTV 영상을 중앙에서 통합 관리하여 안전성을 강화하고 신속한 상황대처 가능"
+          }
+        ]
+      },
+      {
+        "category": "똑똑하게 에너지를 아껴주는 에너지 절감 시스템",
+        "items": [
+          {
+            "name": "대기전력 차단 스위치",
+            "description": "사용하지 않는 가전제품의 대기전력을 차단하여 전기요금 절감"
+          },
+          {
+            "name": "에너지 사용량 모니터링 시스템",
+            "description": "세대 내에서 전기, 수도, 가스 사용량을 실시간 확인 가능"
+          },
+          {
+            "name": "주차장 LED 조명",
+            "description": "고효율 LED 조명 사용으로 에너지 절약 및 유지비 절감"
+          },
+          {
+            "name": "거실 인디렉트 조명 (간접조명, 색온도)",
+            "description": "세대 내부 거실에 설치된 인디렉트 조명은 색온도 조절 가능"
+          },
+          {
+            "name": "스마트 스위치",
+            "description": "세대 내 조명을 스마트하게 제어하여 에너지 절감 및 생활 편의 제공"
+          },
+          {
+            "name": "복도 LED 조명 센서",
+            "description": "공용 복도에는 움직임 감지 센서를 설치해 효율적인 전력 사용"
+          },
+          {
+            "name": "대기전력 차단 콘센트",
+            "description": "필요 시 자동으로 대기전력을 차단해 공용 전기 절감"
+          }
+        ]
+      }
+    ]
+  },
+  "community": {
+    "title": "커뮤니티 시설",
+    "description": "일상에 특별함을 만드는 다양한 커뮤니티",
+    "visible": false,
+    "showOverview": false,
+    "showFloorplan": false,
+    "overviewImage": "assets/images/community/amenities02-4.jpg",
+    "floorPlanImage": "assets/images/community/space01-3.jpg",
+    "facilities": [
+      {
+        "name": "tesy",
+        "description": "test",
+        "mainImage": "assets/images/community/amenities01-1.jpg"
+      }
+    ]
+  },
+  "qna": {
+    "title": "자주 묻는 질문",
+    "description": "루컴즈힐 더테라스를 확인해보세요",
+    "visible": true,
+    "items": [
+      {
+        "question": "루컴즈힐 더테라스 위치가 어디죠?",
+        "answer": "8호선,9호선 석촌역에서 약 200M 거리에 떨어져있으며, 루컴즈힐에서 석촌호수공원 까지는 약 400M 도보 생활권에 위치해 있습니다."
+      },
+      {
+        "question": "대출은 몇프로 나오는건가요?",
+        "answer": "루컴즈힐더테라스 당 현장은 잔금담보대출 기준으로 70~80% 이며 농협으로 현재 확정되어있습니다"
+      },
+      {
+        "question": "입주는 언제인가요?",
+        "answer": "2024년 10월에 준공되었습니다. 즉시 입주가 가능한 신축 부동산 매물입니다"
+      },
+      {
+        "question": "분양가는 얼마죠?",
+        "answer": "타입별 가격은 상이합니다.\n추가로 동/호수에 따라서 분양 가격이 차이가 발생 되기 때문에 자세한 가격 및 조건안내는 대표번호 1833-9123 으로 문의주시면 고객님들께 상세 안내를 도와드리겠습니다."
+      },
+      {
+        "question": "견본주택 운영 및 위치안내",
+        "answer": "루컴즈힐더테라스 견본주택\n위치 : 서울시 송파구 백제고분로37길 2\n운영시간 : 오전10시 ~ 오후6시\n평일/공휴일/주말 모두 운영됩니다\n방문예약 : 홈페이지 예약 시스템"
+      }
+    ]
+  },
+  "news": {
+    "title": "언론보도",
+    "description": "루컴즈힐더테라스관련 보도자료를 확인하세요",
+    "visible": true,
+    "items": [
+      {
+        "title": "송파 루컴즈힐 더테라스, 주상복합 프리미엄 갖춘 분양 단지 눈길",
+        "source": "한국경제TV",
+        "date": "2024-12-16",
+        "articleTitle": "송파 일대 주상복합단지 ‘루컴즈힐 더테라스’ 분양 주목",
+        "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202412160191&t=NN",
+        "image": "",
+        "content": "의 소식에 따르면, 서울 송파구 일대 새로 공급되는 단지 ‘루컴즈힐 더테라스’가 분양 시장에서 관심이 많다. 주거와 상업 시설이 혼합된 구조로 설계되어 있으며, 인근 인프라와 교통 접근성이 좋다는 이유로 관심을 받고 있다.\n\n● 층수: 생활주택 2~8층 + 오피스텔 3~10층 구성 예정\n● 특징: 청약통장 불필요, 일부 면적 전매 가능성 포함\n● 주변 생활 인프라(백화점·롯데월드·병원 등)와 인접\n● 소형 평형 중심 구성으로 수요 유연성\n● 송파 중심부 입지와 도보 접근성\n\n이 게시물은 한국경제TV 기사 의 제목과 주요 내용을 참고하여 요약·재구성한 것이며, 전문은 한국경제TV 홈페이지에서 확인할 수 있습니다.",
+        "ctaLink": "",
+        "createdAt": "2025-09-25T09:16:54.275Z"
+      },
+      {
+        "title": "잠실 ‘루컴즈힐 더테라스’ 소형주택, 선착순 계약 돌입…입지·청약조건 주목",
+        "source": "서울경제",
+        "articleTitle": "최적의 주거지 석촌호수 잠실 소형주택 ‘루컴즈힐 더테라스’ 선착순 계약",
+        "date": "2022-10-14",
+        "link": "https://www.sedaily.com/NewsView/26CCHFFRW9/GK0301",
+        "image": "",
+        "content": "에 따르면, 서울 송파구 잠실 일대 공급되는 소형주택 단지 ‘루컴즈힐 더테라스’가 선착순 계약을 시작했다. 해당 단지는 주거는 물론 투자 목적으로도 매력적인 조건을 갖춰 실수요층의 관심이 많다.\n\n● 유형: 도시형 생활주택 + 오피스텔 복합구성\n● 층수 구성: 생활주택 2~8층, 오피스텔 3~10층\n● 입지: 석촌역(지하철 8호선·9호선) 도보 2분 거리(더블역세권)\n● 생활 인프라: 석촌호수, 롯데월드, 백화점, 병원 등 도보 이동 가능\n\n이 단지는 잠실 지역의 고급 인프라 환경과 교통 접근성, 그리고 공급 조건이 결합된 형태로, 청약 통장 없이 계약할 수 있다는 특이 조건이 시장에 신선한 반응입니다.\n\n이 게시물은 서울경제뉴스의 기사 제목과 주요 내용을 요약·재구성한 것이며, 전문은 서울경제 홈페이지에서 확인할 수 있습니다.",
+        "ctaLink": "https://apply.lh.or.kr/",
+        "createdAt": "2025-09-25T09:07:20.841Z"
+      }
+    ]
+  },
+  "contact": {
+    "title": "상담 문의",
+    "subtitle": "위의 내용 중 궁금한 점이 있으신가요?",
+    "address": "경기도 김포시 장기동 모델하우스",
+    "phone": "1811-0013",
+    "hours": "오전 10시 - 오후 6시",
+    "kakao": ""
+  },
+  "footer": {
+    "projectInfo": {
+      "projectName": "",
+      "manager": "",
+      "description": "",
+      "address": ""
+    },
+    "companies": {
+      "developer": "",
+      "constructor": "",
+      "trustee": ""
+    },
+    "contacts": {
+      "phone": "",
+      "kakao": ""
+    },
+    "additionalNote": "",
+    "disclaimers": []
+  },
+  "seo": {
+    "title": "송파 루컴즈힐더테라스",
+    "description": "송파 루컴즈힐더테라스 홈페이지 | 분양가 | 모델하우스 방문 | 위치 | 타입별 평면도 | 더블역세권을 품은 테라스공간 확인",
+    "keywords": "송파 아파트,서울 역세권 신축,루컴즈힐 모델하우스,루컴즈힐더테라스 가격,송파 아파트,서초 역세권 신축",
+    "ogImage": "assets/images/hero/hero.jpg"
+  },
+  "layout": {
+    "title": "단지 배치도",
+    "description": "모던한 선의 미학으로 송파의 랜드마크를 만들다",
+    "features": [
+      {
+        "title": "PUBLIC AREA",
+        "description": "남다른 품격과 싱그러운 자연의 눈부신 환대"
+      },
+      {
+        "title": "TERRACE",
+        "description": "도시의 화려함과 호수의 수려함이 이루는 풍경"
+      }
+    ],
+    "images": [
+      "assets/images/layout/unit.jpg"
+    ],
+    "visible": true
+  }
+}
